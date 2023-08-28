@@ -1,5 +1,5 @@
-# 💫 About Me:
-20 years old;<br>2nd year BTech Computer Science student;<br>Languages: Python, C and C++;<br>Skills: Git, GitHub, Bash ,REST APIs, SQL and GCP;<br>OS: Ubuntu, Windows and MacOS<br>Automation, ML, DL and Cloud enthusiast;
+# About Me:
+20 years old;<br>2nd year BTech Computer Science student;<br>Languages: Python, C and C++;<br>Skills: Machine Learning ,Deep Learning ,AWS Cloud, Git, GitHub, Bash, SQL and GCP;<br>Automation, ML, DL and Cloud enthusiast;
 
 
 ## 🌐 Socials:
