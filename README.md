@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Devansh Chamoli</h1>
 <h3 align="center">3rd Year B.Tech CSE , Machine learning and Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fs-0--398216792027625133%2F&psig=AOvVaw2y746IalgolhzWO_-R5a3z&ust=1699900506952000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi7gIGNv4IDFQAAAAAdAAAAABAT">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/XZqHCdp.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh19c&label=Profile%20views&color=0e75b6&style=flat" alt="devansh19c" /> </p>
 
