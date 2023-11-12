@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Devansh Chamoli</h1>
 <h3 align="center">3rd Year B.Tech CSE , Machine learning and Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/Z2PfLeM.gif">
@@ -7,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/devansh19c" target="blank"><img src="https://img.shields.io/twitter/follow/devansh19c?logo=twitter&style=for-the-badge" alt="devansh19c" /></a> </p>
 
-- 🌱 I’m currently learning **ML & DL , React**
+-  I’m currently learning **ML & DL , React**
 
-- 📫 How to reach me **Twitter : Devansh19c**
+-  How to reach me **Twitter : Devansh19c**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/devanshchamoli/](https://www.linkedin.com/in/devanshchamoli/)
+-  Know about my experiences [https://www.linkedin.com/in/devanshchamoli/](https://www.linkedin.com/in/devanshchamoli/)
 
-- ⚡ Fun fact **Accidentally discovered the Konami Code while debugging - up, up, down, down, left, right, left, right, B, A, hire me?**
+-  Fun fact **Accidentally discovered the Konami Code while debugging - up, up, down, down, left, right, left, right, B, A, hire me?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
