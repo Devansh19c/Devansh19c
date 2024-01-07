@@ -12,7 +12,6 @@
 
 -  Know about my experiences [https://www.linkedin.com/in/devanshchamoli/](https://www.linkedin.com/in/devanshchamoli/)
 
--  Fun fact **Accidentally discovered the Konami Code while debugging - up, up, down, down, left, right, left, right, B, A, hire me?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
