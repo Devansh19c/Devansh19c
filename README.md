@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Devansh Chamoli</h1>
-<h3 align="center">3rd Year B.Tech CSE , Machine learning and Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Devansh Chamoli</h1>
+<h3 align="center">Founding AI Engineer @DecisionSpot | Machine learning , Data Science , GenAI , Data Engineering </h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/Z2PfLeM.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh19c&label=Profile%20views&color=0e75b6&style=flat" alt="devansh19c" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devansh19c" target="blank"><img src="https://img.shields.io/twitter/follow/devansh19c?logo=twitter&style=for-the-badge" alt="devansh19c" /></a> </p>
 
--  I’m currently learning **ML & DL , React**
+-  I’m currently focusing on **GenAI**
 
 -  How to reach me **Twitter : Devansh19c**
 
