@@ -1,5 +1,6 @@
 <h1 align="center">Devansh Chamoli</h1>
-<h3 align="center">Founding AI Engineer @ DecisionSpot — Building End-to-End Agentic AI Systems</h3>
+<h3 align="center">AI Engineer @ Hong Leong Bank | Founding AI Engineer @ DecisionSpot</h3>
+<h4 align="center">Building End-to-End Agentic AI Systems</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devanshchamoli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,14 +11,16 @@
 
 ### About
 
-I design and ship **end-to-end agentic AI systems** — from architecture to production. My current focus is multi-agent orchestration using **Google ADK**, the **Agent-to-Agent (A2A) protocol**, and ADK Graph, building systems where multiple specialized agents coordinate, hand off tasks, and operate reliably at scale.
+I design and ship **end-to-end agentic AI systems** — from architecture to production. I currently work as an **AI Engineer at Hong Leong Bank**, alongside my role as **Founding AI Engineer at DecisionSpot**. My focus is multi-agent orchestration using **Google ADK**, the **Agent-to-Agent (A2A) protocol**, and ADK Graph, building systems where multiple specialized agents coordinate, hand off tasks, and operate reliably at scale.
 
 Before this, I spent significant time building **supply chain automation platforms**, combining the **OpenAI API**, **LangChain**, and **LangGraph** with **FastAPI** backends to take AI systems from prototype to production.
 
-- 🔭 Currently building multi-agent systems with **Google ADK / A2A / ADK Graph**
-- 🏗️ Background in **supply chain AI automation** — OpenAI API, LangChain, LangGraph, FastAPI
-- 🎯 Focused on end-to-end delivery: architecture, orchestration, evaluation, and deployment of AI solutions
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/devanshchamoli/) or [Twitter](https://twitter.com/devansh19c)
+- **AI Engineer @ Hong Leong Bank** — currently building agentic AI solutions
+- **Founding AI Engineer @ DecisionSpot**
+- Working with **Google ADK / A2A / ADK Graph** for multi-agent orchestration
+- Background in **supply chain AI automation** — OpenAI API, LangChain, LangGraph, FastAPI
+- Focused on end-to-end delivery: architecture, orchestration, evaluation, and deployment of AI solutions
+- Reach me on [LinkedIn](https://www.linkedin.com/in/devanshchamoli/) or [Twitter](https://twitter.com/devansh19c)
 
 ---
 
@@ -48,11 +51,4 @@ Before this, I spent significant time building **supply chain automation platfor
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="36" height="36"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devansh19c&show_icons=true&locale=en&theme=default&hide_border=true" alt="devansh19c stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh19c&show_icons=true&locale=en&layout=compact&hide_border=true" alt="devansh19c top langs" height="165"/>
 </p>
