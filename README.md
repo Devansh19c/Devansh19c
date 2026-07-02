@@ -11,7 +11,7 @@
 
 ### About
 
-I design and ship **end-to-end agentic AI systems** from architecture to production. I currently work as an **AI Engineer at Hong Leong Bank**. My focus is multi-agent orchestration using **Google ADK**, the **Agent-to-Agent (A2A) protocol**, and ADK Graph, building systems where multiple specialized agents coordinate, hand off tasks, and operate reliably at scale.
+I design and ship **end-to-end agentic AI systems** from architecture to production. I currently work as an **AI Engineer at Hong Leong Bank**. My focus is multi-agent orchestration using **Google ADK**, the **Agent-to-Agent (A2A) **, and ADK Graph, building systems where multiple specialized agents coordinate, hand off tasks, and operate reliably at scale.
 
 Before this, I spent significant time building **supply chain automation platforms**, combining the **OpenAI API**, **LangChain**, and **LangGraph** with **FastAPI** backends to take AI systems from prototype to production.
 
