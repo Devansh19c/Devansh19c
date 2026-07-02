@@ -11,15 +11,15 @@
 
 ### About
 
-I design and ship **end-to-end agentic AI systems** — from architecture to production. I currently work as an **AI Engineer at Hong Leong Bank**, alongside my role as **Founding AI Engineer at DecisionSpot**. My focus is multi-agent orchestration using **Google ADK**, the **Agent-to-Agent (A2A) protocol**, and ADK Graph, building systems where multiple specialized agents coordinate, hand off tasks, and operate reliably at scale.
+I design and ship **end-to-end agentic AI systems** from architecture to production. I currently work as an **AI Engineer at Hong Leong Bank**, alongside my role as **Founding AI Engineer at DecisionSpot**. My focus is multi-agent orchestration using **Google ADK**, the **Agent-to-Agent (A2A) protocol**, and ADK Graph, building systems where multiple specialized agents coordinate, hand off tasks, and operate reliably at scale.
 
 Before this, I spent significant time building **supply chain automation platforms**, combining the **OpenAI API**, **LangChain**, and **LangGraph** with **FastAPI** backends to take AI systems from prototype to production.
 
-- **AI Engineer @ Hong Leong Bank** — currently building agentic AI solutions
+- **AI Engineer @ Hong Leong Bank**, currently building agentic AI solutions
 - **Founding AI Engineer @ DecisionSpot**
 - Working with **Google ADK / A2A / ADK Graph** for multi-agent orchestration
-- Background in **supply chain AI automation** — OpenAI API, LangChain, LangGraph, FastAPI
-- Focused on end-to-end delivery: architecture, orchestration, evaluation, and deployment of AI solutions
+- Background in **supply chain AI automation** using OpenAI API, LangChain, LangGraph, and FastAPI
+- Focused on end-to-end delivery including architecture, orchestration, evaluation, and deployment of AI solutions
 - Reach me on [LinkedIn](https://www.linkedin.com/in/devanshchamoli/) or [Twitter](https://twitter.com/devansh19c)
 
 ---
